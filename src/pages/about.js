@@ -57,13 +57,13 @@ const About = () => {
             </p>
 
             <p className="font-medium p-2">
-              Development isn’t just about coding; it’s about solving real problems, improving user experiences, and driving
-              innovation. Whether it’s a website, mobile app, or IoT system, I create functional and efficient solutions.
+              Development is not just about coding; it is about solving real problems, improving user experiences, and driving
+              innovation. Whether it is a website, mobile app, or IoT system, I create functional and efficient solutions.
             </p>
 
             <p className="font-medium p-2">
               With a strong foundation in Flutter, Django, Tailwind CSS, PHP, and Arduino, I have developed projects
-              ranging from automated systems to AI-driven applications. I’m always exploring new technologies
+              ranging from automated systems to AI-driven applications. I am always exploring new technologies
               to stay ahead in the ever-evolving tech landscape.
             </p>
 
