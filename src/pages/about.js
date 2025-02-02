@@ -50,7 +50,7 @@ const About = () => {
           <div className="col-span-3 flex flex-col items-start justify-start p-14">
             <h2 className="mb-4 text-3xl font-bold uppercase text-dark/75">About Me</h2>
             <p className="font-medium p-2">
-              Hi, I'm Tharuka, a passionate full-stack developer, mobile app developer, and IoT enthusiast
+              Hi, I am Tharuka, a passionate full-stack developer, mobile app developer, and IoT enthusiast
               dedicated to crafting powerful, user-friendly digital solutions. With hands-on experience
               in web development, mobile applications, and embedded systems, I bring ideas to life through
               clean code and smart designs.
